@@ -1,0 +1,57 @@
+Project Group Id : MLB_02.01_11
+Batch No : 2.1
+Topic : Online Music Instrument Store
+Project Link : https://mysliit-my.sharepoint.com/:u:/g/personal/it20631260_my_sliit_lk/EYhhUxDyim5FjE85Kqs8W0ABNbz8RQOx1xUrRVzq9T1IMw?e=gFGd3A
+
+**********Group Member Details**********
+
+Member Id : IT20631260
+Member Name : S.A.D.R.P. Jayathilaka
+Contact No : 0788242482
+Email Address : it20631260@my.sliit.lk
+Implemented Functions : Login and Register functions
+			Whole Home Page
+			Add Adimn members function in Owner page
+			Whole Owner page and create tables to view records from database 
+			(O.M.I.S.php, Owner.php, Login.php, Sign in.php, Logout.php, Home.php, Downloads.php, AdminUpdate.php, update.php, connection.php,
+			 Indexmy.php, Aye Enna Pana Mage.php, Baaton Ko Teri.php, Back in Black.php, Classical-Guitar-Method-Vol1-2020.php,
+			 guitar book-sinhalaebooks.php )
+
+Member Id : IT20631338
+Member Name : N.M. Dharmapriya
+Contact No : 0750607119
+Email Address : it20631338@my.sliit.lk
+Implemented Functions : Whole Financial Officer page
+			Create tables in Financial Officer page to view record from database
+			Get payment function and whole Payment page
+			(customerFM.php, deliveryFM.php, orderFM.php, productFM.php, checkout.php, FinancialOfficer.php)
+
+Member Id : IT20628918
+Member Name : P.N. Gulawita
+Contact No : 0788280906
+Email Address : it20628918@my.sliit.lk
+Implemented Functions : Whole product page
+			Add products, Update products, Delete products functions
+			Whole Manager page
+			(Manager.php, all_products.php, cart.php, details.php, index.php, result.php, delete_brand.php, delete_cat.php, 
+			delete_pro.php, edit_brand.php, edit_cart.php, edit_pro.php, insert_brand.php, insert_cart.php, insert_product.php,
+			 view_brands.php, view_carts.php, view_products.php)
+
+Member Id : IT20603540
+Member Name : A.H.L. Fernando
+Contact No : 0715511822
+Email Address : it20603540@my.sliit.lk
+Implemented Functions : Whole driver page
+			create tables to view Driver details, payment details, order details in Driver admin page
+			Whole support page and aboutus page
+			(aboutus.html, support.html, delivery.php, driverUDE.php, order_u.php, payment.php, Driver.php)
+
+Member Id : IT20609894
+Member Name : B.A.R.P.R. Batawala
+Contact No : 0717578817
+Email Address : it20609894@my.sliit.lk
+Implemented Functions : Whole contact us page
+			create tables to view delivery details, driver details, order details, in Delivery Manager admin page
+			Whole Delivery Manager Page
+			(Delivery_details.php, Driver_details.php, driverUDE.php, Order_details.php, intex.php, DeliveryManager.php
+			
